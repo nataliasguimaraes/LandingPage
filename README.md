@@ -64,11 +64,12 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401332-8a63c531-bd11-4995-b8ff-98d384f18cb3.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esse foi um projeto desenvolvido no curso de Desenvolvimento WEB do professor Igor Oliveira. O objetivo do projeto é de colocar em prática os aprendizados iniciais em HTML e CSS.
+> Esse foi um projeto desenvolvido no curso de Desenvolvimento WEB do professor Igor Oliveira. O objetivo do projeto é de criar uma Landing Page integrada com a plataforma MailChip, onde os candidatos se inscrevem para participar de um Workshop e ses dados ficam salvos numa plataforma de marketing e automação para comunicação e gerenciamento de clientes.
   
   
 <!------------------------------------LAYOUT -->
-<img src="https://user-images.githubusercontent.com/104440384/197402009-1428900a-d3a8-4ea9-af6d-02e360e69be5.png" alt="tela1" width="300"/> <img src="https://user-images.githubusercontent.com/104440384/197402011-1ed5ba3f-61d3-4f30-a9f3-1ce48e01db6d.png" alt="tela2" width="300"/> <img src="https://user-images.githubusercontent.com/104440384/197402012-1269580f-6be8-4110-b34e-ec325ce43ff3.png" alt="tela3" width="300"/>
+
+<img src="https://i.imgur.com/YbNycF1.png" alt="tela1" width="300"/> <img src="https://i.imgur.com/aGtIbgV.png" alt="tela2" width="300"/> 
 
   
   
@@ -79,19 +80,20 @@ https://simpleicons.org/?q=react
 
   
 * HTML
-  * [`Div`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div) Foram utilizadas divs para criar o topbar, content, footer.
+  * [`Div`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div) Foram utilizadas divs para criar os containers.
   * [`h1`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements) [`h2`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)  utilizados para títulos e subtítulos;
-  * [`small`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/small) utilizado para exibir uma fonte pequena;
-  * [`figure`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/figure) para exibir imagens;
+  * [`form`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form) para criar as seções onde o usuário irá submeter suas informações para inscriçao;
+  * [`input`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input) utilizado para criar controles interativos para formulários baseados na web para receber dados do usuário;
   * [`p`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/p) utilizado de forma semântica para parágrafos;
   * [`img`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img) utilizado para inserir imagens no html.
   
 * CSS
   * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para determinar a fonte do projeto;
   * [`text-align`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para alinhar o conteúdo;
-  * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height) para definir a distância entre as linhas do texto;
-  * [`border-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom) para definir a borda inferior de um elemento;
+  * [`overflow-hidden`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow) para especificar que o conteúdo de um elemento de nível de bloco seja cortado, se exição de barras de rolagem;
   * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)[`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) para definir a área de preenchimento e as bordas dos elementos;
+  * [`float`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/float) para retirar um elemento de seu fluxo normal e colocá-lo em outra posição no container;
+  * [`display`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para especificar o tipo de caixa de renderização usada por um element;
   * dentre outros...
   
  
@@ -103,7 +105,7 @@ https://simpleicons.org/?q=react
 Clonar repositório:
 
 ```
-git clone https://github.com/nataliasguimaraes/Contentpage.git
+git clone https://github.com/nataliasguimaraes/LandingPage.git
 ```
 
 
@@ -113,7 +115,7 @@ git clone https://github.com/nataliasguimaraes/Contentpage.git
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
  
- Esse foi o meu primeiro projeto hospedado no Github. :)
+ 
   
   
   
