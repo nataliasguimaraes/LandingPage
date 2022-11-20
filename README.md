@@ -64,7 +64,7 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401332-8a63c531-bd11-4995-b8ff-98d384f18cb3.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esse foi um projeto desenvolvido no curso de Desenvolvimento WEB do professor Igor Oliveira. O objetivo do projeto é de criar uma Landing Page integrada com a plataforma MailChip, onde os candidatos se inscrevem para participar de um Workshop e ses dados ficam salvos numa plataforma de marketing e automação para comunicação e gerenciamento de clientes.
+> Esse foi um projeto desenvolvido no curso de Desenvolvimento WEB do professor Igor Oliveira. O objetivo do projeto é de criar uma Landing Page integrada com a plataforma MailChimp, onde os candidatos se inscrevem para participar de um Workshop e ses dados ficam salvos numa plataforma de marketing e automação para comunicação e gerenciamento de clientes.
   
   
 <!------------------------------------LAYOUT -->
